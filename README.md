@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @MenmaDevPo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 个人简历网站
 
-<!---
-MenmaDevPo/MenmaDevPo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这是一个简洁现代风格的个人简历网站模板，使用HTML和CSS构建，具有响应式设计，适配各种设备屏幕。
+
+## 特点
+
+- 现代简洁的设计风格
+- 响应式布局，适配移动设备
+- 清晰的信息组织结构
+- 平滑的交互效果
+- 易于自定义和修改
+
+## 文件结构
+
+- `index.html` - 主页面文件
+- `styles.css` - 样式文件
+- `README.md` - 说明文档
+
+## 使用方法
+
+1. 修改 `index.html` 文件中的个人信息、技能、工作经历等内容
+2. 如需更换头像，请将图片文件放在同一目录下，并更新HTML中的图片路径
+3. 如需调整样式，可编辑 `styles.css` 文件
+
+## 预览
+
+要预览网站，可以使用任何本地服务器工具，如：
+- Python: `python -m http.server 8000`
+- Node.js: `npx serve .`
+- 或直接在浏览器中打开index.html文件（部分功能可能受限）
+
+## 自定义
+
+您可以根据自己的需求修改以下内容：
+- 个人信息和联系方式
+- 技能列表
+- 工作经历
+- 项目经验
+- 颜色主题（在CSS文件中修改颜色变量）
+- 字体和布局
